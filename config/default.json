@@ -1,0 +1,11 @@
+{
+  "logger": {
+    "level"        : "debug",
+    "elasticsearch": {
+      "host": "username:password@elk.football-api.com:9200"
+    }
+  },
+  "server": {
+    "port": 8000
+  }
+}

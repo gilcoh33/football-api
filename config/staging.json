@@ -1,0 +1,10 @@
+{
+  "logger": {
+    "level": "info"
+  },
+  "aws"   : {
+    "accessKeyId"    : "aaa",
+    "secretAccessKey": "bbb",
+    "region"         : "us-east-1"
+  }
+}
